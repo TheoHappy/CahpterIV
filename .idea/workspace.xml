@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7f8871-35ba-4a21-a5e2-187a88081c31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindTheLargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindTheTwoLargestNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquareOfAsterisks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TabularOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidatingUserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnotherDanglingElseProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DanglingElseProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintingTheDecimalEquivalentOfABinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SidesOfARightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SidesOfATriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChapterIV/SalaryCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterIV/SalaryCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChapterIV/SquareOfASterisks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterIV/SquareOfASterisks.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +30,9 @@
   </component>
   <component name="ProjectId" id="1UEvBec8fklU2nVGFmdssZapiWu" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PentalogInternship" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,37 +46,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquareOfAsterisks">
-    <configuration name="FindTheLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindTheLargestNumber" />
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="AnotherDanglingElseProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnotherDanglingElseProblem" />
       <module name="ChapterIV" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTheTwoLargestNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindTheTwoLargestNumbers" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="ChapterIV" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareOfAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SquareOfAsterisks" />
+    <configuration name="PrintingTheDecimalEquivalentOfABinaryNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintingTheDecimalEquivalentOfABinaryNumber" />
       <module name="ChapterIV" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TabularOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TabularOutput" />
+    <configuration name="SidesOfARightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SidesOfARightTriangle" />
       <module name="ChapterIV" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidatingUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidatingUserInput" />
+    <configuration name="SidesOfATriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SidesOfATriangle" />
       <module name="ChapterIV" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SquareOfAsterisks" />
-        <item itemvalue="Application.ValidatingUserInput" />
-        <item itemvalue="Application.FindTheTwoLargestNumbers" />
-        <item itemvalue="Application.TabularOutput" />
-        <item itemvalue="Application.FindTheLargestNumber" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.SidesOfARightTriangle" />
+        <item itemvalue="Application.SidesOfATriangle" />
+        <item itemvalue="Application.PrintingTheDecimalEquivalentOfABinaryNumber" />
+        <item itemvalue="Application.AnotherDanglingElseProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -98,8 +102,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574934434539</updated>
+      <workItem from="1575034092882" duration="6243000" />
+      <workItem from="1575107626638" duration="14480000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
